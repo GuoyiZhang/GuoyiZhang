@@ -18,7 +18,7 @@
 
   <p align="center">
     <a href="https://github.com/GuoyiZhang">
-      <img alt="GuoyiZhang" src="https://img.shields.io/badge/Java-4%E5%B9%B4-brightgreen?style=flat&logo=java" />
+      <img alt="GuoyiZhang" src="https://img.shields.io/badge/Java-4.5%E5%B9%B4-brightgreen?style=flat&logo=java" />
     </a>    
 <a href="https://github.com/GuoyiZhang">
       <img alt="GuoyiZhang" src="https://img.shields.io/badge/Solidity-3%E5%B9%B4-blueviolet?style=flat&logo=solidity" />
@@ -27,7 +27,7 @@
       <img src="https://img.shields.io/badge/PHP-2%E5%B9%B4-blue?style=flat&logo=php" />
     </a>
     <a href="https://github.com/GuoyiZhang">
-      <img alt="GuoyiZhang" src="https://img.shields.io/badge/VUE.js-1%E5%B9%B4-orange?style=flat&logo=vue.js" />
+      <img alt="GuoyiZhang" src="https://img.shields.io/badge/VUE.js-2%E5%B9%B4-orange?style=flat&logo=vue.js" />
     </a>
     <a href="https://github.com/GuoyiZhang">
       <img alt="GuoyiZhang" src="https://img.shields.io/badge/Android-1.5%E5%B9%B4-ff69b4?style=flat&logo=android" />

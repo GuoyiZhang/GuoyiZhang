@@ -2,85 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4909c4a-6590-4d01-bae3-da99e5f4e9bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commit-message-emoji.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/git-emoji-list.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github-emoji.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/FUNDING.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/FUNDING.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.md" beforeDir="false" afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/feature_request.md" beforeDir="false" afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/feature_request.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/labeler.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/labeler.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/stale.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/stale.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.prettierignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.prettierrc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vercelignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/pin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/top-langs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/wakatime.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codecov.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/readme_cn.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/readme_de.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/readme_es.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/readme_fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/readme_it.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/readme_ja.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/readme_kr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/readme_nl.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/readme_np.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/readme_pt-BR.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/readme_tr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jest.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/powered-by-vercel.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/generate-theme-doc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/preview-theme.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/push-theme-readme.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calculateRank.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cards/repo-card.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cards/stats-card.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cards/top-languages-card.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cards/wakatime-card.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/Card.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/I18n.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/blacklist.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/createProgressNode.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/icons.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/languageColors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/retryer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fetchers/repo-fetcher.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fetchers/stats-fetcher.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fetchers/top-languages-fetcher.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fetchers/wakatime-fetcher.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/getStyles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/translations.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/__snapshots__/renderWakatimeCard.test.js.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/api.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/calculateRank.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/card.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/fetchRepo.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/fetchStats.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/fetchTopLanguages.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/fetchWakatime.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/flexLayout.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/pin.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/renderRepoCard.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/renderStatsCard.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/renderTopLanguages.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/renderWakatimeCard.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/retryer.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/top-langs.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/utils.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vercel.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commit-message-emoji.md" beforeDir="false" afterPath="$PROJECT_DIR$/commit-message-emoji.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-emoji-list.md" beforeDir="false" afterPath="$PROJECT_DIR$/git-emoji-list.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-emoji.md" beforeDir="false" afterPath="$PROJECT_DIR$/github-emoji.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -102,6 +44,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -137,7 +80,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1641628212564</updated>
-      <workItem from="1641628215142" duration="4502000" />
+      <workItem from="1641628215142" duration="4875000" />
+      <workItem from="1657529051042" duration="62000" />
     </task>
     <servers />
   </component>
