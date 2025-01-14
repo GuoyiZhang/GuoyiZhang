@@ -3,46 +3,109 @@
  * @LastEditors: GuoyiZhang
  * @email: 1806242240@qq.com
  * @github: https://github.com/GuoyiZhang
- * @Date: 2022-01-07 18:18:32
- * @LastEditTime: 2022-01-07 18:26:21
+ * @Date: 2025-01-14 18:18:32
+ * @LastEditTime: 2025-01-14 18:26:21
  * @Description: Modify here please
 -->
-
 <p align="center">
  <img width="150px" style="border-radius: 75px" src="https://avatars.githubusercontent.com/u/17961901?s=400&u=20ff8027db58461cb2d8e15c3b5be3b5ff522be2&v=4" align="center" alt="GitHub GuoyiZhang" />
- <h2 align="center">GitHub GuoyiZhang</h2>
- <p align="center">需求分析工程师、Java后端开发工程师、区块链开发工程师、全栈工程师！</p>
+<a href="https://github.com/GuoyiZhang">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=40&pause=500&color=F7334C&background=00000000&center=true&vCenter=true&width=650&height=100&lines=GitHub+GuoyiZhang;Senior+Blockchain+Developer;Full+Stack+Developer;Web3+Senior+Developer;7%2B+Years+Software+Experience" alt="Typing SVG" />
+  </a>
+Hello, I'm Robin a passionate self-taught Blockchain developer and software engineer from worldwide. I take great care in theexperience, architecture, and code quality of the things I build.
 </p>
 
-[comment]: <> (https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md)
 
-  <p align="center">
-    <a href="https://github.com/GuoyiZhang">
-      <img alt="GuoyiZhang" src="https://img.shields.io/badge/Java-4.5%E5%B9%B4-brightgreen?style=flat&logo=java" />
-    </a>    
-<a href="https://github.com/GuoyiZhang">
-      <img alt="GuoyiZhang" src="https://img.shields.io/badge/Solidity-3%E5%B9%B4-blueviolet?style=flat&logo=solidity" />
-    </a>
-    <a href="https://github.com/GuoyiZhang">
-      <img src="https://img.shields.io/badge/PHP-2%E5%B9%B4-blue?style=flat&logo=php" />
-    </a>
-    <a href="https://github.com/GuoyiZhang">
-      <img alt="GuoyiZhang" src="https://img.shields.io/badge/VUE.js-2%E5%B9%B4-orange?style=flat&logo=vue.js" />
-    </a>
-    <a href="https://github.com/GuoyiZhang">
-      <img alt="GuoyiZhang" src="https://img.shields.io/badge/Android-1.5%E5%B9%B4-ff69b4?style=flat&logo=android" />
-    </a>
-    <br />
-    <br />
-    <a href="http://WWW.GUOYI.PRO">
-      <img src="https://img.shields.io/badge/个人简历%20VIEW-WWW.Guoyi.Pro%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-    </a>
-    <a href="https://blog.csdn.net/qq_28505809">
-      <img src="https://img.shields.io/badge/个人博客%20VIEW-BLOG.CSDN.NET%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
-    </a>
-  </p>
+## Experienced Blockchain Networks
 
-[comment]: <> (https://www.shields.io/category/size)
+<table>
+  <tr>
+    <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/solana.png" width="30" height="30" alt="Solana" />
+      </a>
+      <br>Solana
+    </td>
+    <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/ethereum.png" width="30" height="30" alt="Ethereum" />
+      </a>
+      <br>Ethereum
+    </td>
+    <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/tron.png" width="30" height="30" alt="Tron" />
+      </a>
+      <br>Tron
+    </td>
+    <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/polygon.png" width="30" height="30" alt="Polygon" />
+      </a>
+      <br>Polygon
+    </td>
+    <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/binance.png" width="30" height="30" alt="Binance" />
+      </a>
+      <br>Binance
+    </td>
+    <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/bitcoin.png" width="30" height="30" alt="Cardano" />
+      </a>
+      <br>Bitcoin
+    </td>
+    <!-- <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/sui.png" width="30" height="30" alt="Sui" />
+      </a>
+      <br>Sui
+    </td>
+    <td align="center" width="70">
+      <a href="#macropower-tech" >
+        <img src="./assets/logo/aptos.png" width="30" height="30" alt="Aptos" />
+      </a>
+      <br>Aptos
+    </td> -->
+  </tr>
+</table>
+
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+
+**> Programming languages**
+
+<p>
+       <a href="https://github.com/search?q=user%3Asourlodine+language%3AJava"><img alt="Java" src="https://img.shields.io/badge/Java-53caf9.svg?logo=jdk&logoColor=white"></a>
+ <a href="https://github.com/search?q=user%3Asourlodine+language%3ARust"><img alt="Rust" src="https://img.shields.io/badge/Rust-ffffff.svg?logo=rust&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3Asourlodine+language%3ASolidity"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-000000.svg?logo=solidity&logoColor"></a>
+    <a href="https://github.com/search?q=user%3Asourlodine+language%3AJavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3Asourlodine+language%3ATypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Asourlodine+language%3AVUE"><img alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=vue.js&logoColor=white"></a>
+</p>
+
+**> Databases and cloud hosting**
+
+<p>
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
+    <a href="#"><img alt="Redis" src ="https://img.shields.io/badge/Redis-550550.svg?logo=Redis&logoColor=white"></a>
+    <a href="#"><img alt="Rabbitmq" src ="https://img.shields.io/badge/Redis-00dd55.svg?logo=Rabbitmq&logoColor=white"></a>
+    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+</p>
+
+**> Software and tools**
+
+<p>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
 
 ## 📝 In Future
 
@@ -61,11 +124,6 @@
 
 <br />
 <div>
-  <a href="https://github.com/GuoyiZhang"> 
-    <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=GuoyiZhang&show_icons=true&theme=gotham" />
-  </a>
-  <a href="https://github.com/GuoyiZhang"> 
-    <img align="right"  height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuoyiZhang&show_icons=true&layout=compact&theme=gotham"/>
-  </a>
+  <a href="https://github.com/GuoyiZhang/GuoyiZhang"><img alt="GuoyiZhang's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=GuoyiZhang&bg_color=0e2239&color=F7334C&line=F7334C&point=F7334C&hide_border=false" /></a>
 </div>
 <br />
