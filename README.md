@@ -115,17 +115,13 @@
 
 <img align="right" alt="GIF" width="250px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🚧 基于Java、vue.js、solidity开发全栈项目
-- 🤦‍♂️ 专注数据上链的区块链全栈开发工程师
-- 😕 使用联盟链做数据溯源
-- 🤔 学习Python做量化交易系统
-- 🐱‍🏍 学习架构知识
-- ✍️ 学习游戏Unity3D游戏开发
-- 🤪 考研
-- 👻 暴富哈哈哈~~~
+- 🚧 Further research of solidity and rust
+- 🤦‍♂️ Discover new opportunities on the chain
+- 😕 Solana Ecosystem and AI Agent Project Analysis and Research
+- 🤔 Research on the application of AI in on-chain transactions and smart money discovery
+- 🐱‍🏍 High performance architecture implementation
+- 🤪 Trading
 
-<br />
 <div>
   <a href="https://github.com/GuoyiZhang/GuoyiZhang"><img alt="GuoyiZhang's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=GuoyiZhang&bg_color=0e2239&color=F7334C&line=F7334C&point=F7334C&hide_border=false" /></a>
 </div>
-<br />
