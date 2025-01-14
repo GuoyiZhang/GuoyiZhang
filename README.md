@@ -9,6 +9,7 @@
 -->
 <p style="display: flex;flex-direction: column;justify-content: center;align-items: center"  align="center">
  <img width="150px" style="border-radius: 75px" src="https://avatars.githubusercontent.com/u/17961901?s=400&u=20ff8027db58461cb2d8e15c3b5be3b5ff522be2&v=4" align="center" alt="GitHub GuoyiZhang" />
+<br/>
 <a href="https://github.com/GuoyiZhang">
     <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=40&pause=500&color=F7334C&background=00000000&center=true&vCenter=true&width=650&height=100&lines=GitHub+GuoyiZhang;Senior+Blockchain+Developer;Full+Stack+Developer;Web3+Senior+Developer;7%2B+Years+Software+Experience" alt="Typing SVG" />
   </a>
